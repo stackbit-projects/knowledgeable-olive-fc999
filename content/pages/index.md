@@ -20,7 +20,7 @@ sections:
     has_background: true
     background:
       background_color: blue
-      background_image: images/WhatsApp Image 2020-11-21 at 3.45.47 AM (1).jpeg
+      background_image: images/feature.svg
       background_image_opacity: 20
       background_image_size: auto
       background_image_repeat: repeat
